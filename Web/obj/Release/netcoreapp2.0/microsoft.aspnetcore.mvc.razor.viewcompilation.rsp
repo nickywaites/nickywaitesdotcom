@@ -1,9 +1,0 @@
-C:\Websites\nickywaites.com\Web
---output-path=obj\Release\netcoreapp2.0\
---application-name=Web
---content-root=C:\Websites\nickywaites.com\Web
---file=C:\Websites\nickywaites.com\Web\Pages\Index.cshtml
---file=C:\Websites\nickywaites.com\Web\Pages\_Layout.cshtml
---file=C:\Websites\nickywaites.com\Web\Pages\_ValidationScriptsPartial.cshtml
---file=C:\Websites\nickywaites.com\Web\Pages\_ViewImports.cshtml
---file=C:\Websites\nickywaites.com\Web\Pages\_ViewStart.cshtml
