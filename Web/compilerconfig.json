@@ -1,6 +1,6 @@
 ﻿[
   {
-    "outputFile": "wwwroot/css/resume.css",
-    "inputFile": "wwwroot/css/resume.scss"
+    "outputFile": "wwwroot/css/resume.v1.css",
+    "inputFile": "wwwroot/css/resume.v1.scss"
   }
 ]
