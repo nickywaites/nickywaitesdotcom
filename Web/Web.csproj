@@ -15,4 +15,7 @@
   <ItemGroup>
     <None Include="wwwroot\robots.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\vendor\jquery\" />
+  </ItemGroup>
 </Project>
