@@ -9,6 +9,8 @@ namespace Web.Pages
         [ViewData]
         public string Title { get; private set; } = "Nicky Waites - My slice of the web";
 
+        public string Social { get; set; } = "text-3xl";
+
         public void OnGet()
         {
 
